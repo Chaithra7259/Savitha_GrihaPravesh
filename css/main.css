@@ -64,6 +64,10 @@
 *::after {
   box-sizing: border-box;
 }
+.fnt{
+  font-family:Brush Script MT;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
