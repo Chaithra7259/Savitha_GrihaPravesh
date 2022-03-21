@@ -7412,7 +7412,20 @@ fieldset:disabled .btn {
   margin-right: auto !important;
   margin-left: auto !important;
 }
+.gimg{
+  padding: 0.25rem;
+  background-color: #fff;
 
+  max-width: 50%;
+  height: auto;
+}
+.himg{
+  padding: 0.25rem;
+  background-color: #fff;
+
+  max-width: 70%;
+  height: auto;
+}
 .my-0 {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
