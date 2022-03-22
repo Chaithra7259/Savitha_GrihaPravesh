@@ -68,7 +68,10 @@
   font-family:Brush Script MT;
 }
 
-
+.bgimg{
+  background-image: url('img/b1.jpg');
+ 
+}
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
