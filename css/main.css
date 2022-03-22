@@ -65,9 +65,15 @@
   box-sizing: border-box;
 }
 .fnt{
-  font-family:Brush Script MT;
+  font-family:'Brush Script MT', cursive;
 }
-
+.mobile .body,
+.mobile .header,
+.mobile .main, 
+.mobile .footer, 
+.mobile #someOtherElement {
+  font-family: 'Brush Script MT', cursive;
+}
 .bgimg{
   background-image: url('img/b1.jpg');
  
