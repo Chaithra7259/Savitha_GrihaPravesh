@@ -163,6 +163,9 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1rem;
 }
+h10, .h10{
+  font-size: 0.65rem;
+}
 
 p {
   margin-top: 0;
